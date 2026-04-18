@@ -1,12 +1,3 @@
 # Contributing
 
-We welcome all contributions to this project.
-
-You can contribute in many ways, including:
-- Bug reports
-- Bug fixes
-- Documentation improvements
-- Enhancements
-- New ideas and suggestions
-
-Thank you for contributing!
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
