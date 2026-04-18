@@ -1,7 +1,5 @@
 curl https://api.github.com/repos/SinggihNaufal/mcino-Introduction-to-Git-and-GitHub
-
 {
-  "id": ...
   "name": "mcino-Introduction-to-Git-and-GitHub",
   "full_name": "SinggihNaufal/mcino-Introduction-to-Git-and-GitHub",
   "fork": true,
